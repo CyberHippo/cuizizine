@@ -1082,7 +1082,7 @@ body {
   background-color: white; }
 
 a {
-  color: #007FFF;
+  color: #27ae60;
   text-decoration: none; }
 
 a:hover {
@@ -1099,7 +1099,7 @@ hr {
 
 .button {
   color: white;
-  background-color: #007FFF;
+  background-color: #27ae60;
   border-radius: 3px;
   transition-duration: .05s;
   transition-timing-function: ease-out;
@@ -1128,7 +1128,7 @@ hr {
 
 .field-light:focus {
   outline: none;
-  border-color: #007FFF;
+  border-color: #27ae60;
   box-shadow: 0 0 0 2px rgba(0, 127, 255, 0.5); }
 
 .field-light:disabled {
@@ -1397,7 +1397,7 @@ input[type=range] {
   color: #7fdbff; }
 
 .blue {
-  color: #007FFF; }
+  color: #27ae60; }
 
 .navy {
   color: #001f3f; }
@@ -1448,7 +1448,7 @@ input[type=range] {
   background-color: #7fdbff; }
 
 .bg-blue {
-  background-color: #007FFF; }
+  background-color: #27ae60; }
 
 .bg-navy {
   background-color: #001f3f; }
@@ -1499,7 +1499,7 @@ input[type=range] {
   border-color: #7fdbff; }
 
 .border-blue {
-  border-color: #007FFF; }
+  border-color: #27ae60; }
 
 .border-navy {
   border-color: #001f3f; }
@@ -1569,7 +1569,7 @@ img {
   line-height: 0; }
 
 .bg-blue-tile {
-  background: #007FFF url("http://localhost:1313/cuizizine/assets/tile.png");
+  background: #27ae60 url("http://localhost:1313/cuizizine/assets/bg.jpg");
   position: relative; }
 
 @media all and (min-width: 40em) {
@@ -1580,7 +1580,7 @@ img {
     right: 0;
     bottom: 0;
     content: " ";
-    box-shadow: inset 0 0 100px 20px #007FFF;
+    box-shadow: inset 0 0 100px 20px #27ae60;
     z-index: 1;
     pointer-events: none; } }
 
@@ -1596,13 +1596,13 @@ img {
 .search input {
   border-radius: 5px;
   border: 2px solid #eee;
-  box-shadow: 0 0 14px rgba(0, 127, 255, 0.1);
+  box-shadow: 0 0 14px rgba(39, 174, 96, 0.1);
   width: 100%;
   padding: 1.5rem; }
 
 .search input:focus {
   outline: none;
-  border: 2px solid #007FFF; }
+  border: 2px solid #27ae60; }
 
 .search {
   transition: .3s ease height;
@@ -1625,7 +1625,7 @@ img {
   content: "- ";
   position: absolute;
   left: 0;
-  color: #007FFF; }
+  color: #27ae60; }
 
 a .image {
   transition: .2s ease all;
@@ -1717,7 +1717,7 @@ a:hover .image {
   height: 24px;
   width: 24px;
   border-radius: 5px;
-  border: 2px solid #007FFF;
+  border: 2px solid #27ae60;
   transition: all 0.3s ease-out;
   -webkit-transition: all 0.3s ease-out;
   -moz-transition: all 0.3s ease-out;
@@ -1727,7 +1727,7 @@ a:hover .image {
 .checkbox-label input:checked ~ .checkbox-custom {
   background-color: #fff;
   border-radius: 5px;
-  border: 2px solid #007FFF;
+  border: 2px solid #27ae60;
   -webkit-transform: rotate(0deg) scale(1);
   -ms-transform: rotate(0deg) scale(1);
   transform: rotate(0deg) scale(1);
@@ -1741,7 +1741,7 @@ a:hover .image {
   height: 0px;
   width: 0px;
   border-radius: 5px;
-  border: solid #007FFF;
+  border: solid #27ae60;
   border-width: 0 3px 3px 0;
   -webkit-transform: rotate(0deg) scale(0);
   -ms-transform: rotate(0deg) scale(0);
@@ -1762,14 +1762,14 @@ a:hover .image {
   top: 2px;
   width: 6px;
   height: 12px;
-  border: solid #007FFF;
+  border: solid #27ae60;
   border-width: 0 3px 3px 0;
   background-color: transparent;
   border-radius: 0; }
 
 .navigation {
   width: 100%;
-  background-image: url("http://localhost:1313/cuizizine/assets/tile.png");
+  background-image: url("http://localhost:1313/cuizizine/assets/bg.jpg");
   padding: 1rem 0; }
   .navigation a, .navigation span {
     display: inline;
@@ -1777,7 +1777,10 @@ a:hover .image {
     font-family: Arial, sans-serif;
     font-weight: 400;
     line-height: 1.4;
-    color: #fff; }
+    color: #fff;
+    background: rgba(39, 174, 96, 0.9);
+    border-radius: 5px;
+    padding: 0.3rem; }
   .navigation a:hover, .navigation a:focus {
     text-decoration: underline; }
   .navigation .nav-avatar {
@@ -1816,7 +1819,7 @@ a:hover .image {
     .navigation .nav-center a:first-child {
       margin-left: 0; }
     .navigation .nav-center a:last-child {
-      padding-right: 1rem; }
+      margin-right: 1rem; }
     @media screen and (max-width: 48em) {
       .navigation .nav-center {
         margin: 15px 0; } }
@@ -1832,7 +1835,7 @@ a:hover .image {
     .navigation .nav-right a:first-child {
       margin-left: 0; }
     .navigation .nav-right a:last-child {
-      padding-right: 1rem; }
+      margin: 1rem; }
 
 .pagination {
   margin-top: 3.0rem;
@@ -1857,6 +1860,6 @@ a:hover .image {
   padding: 3.5rem 0 3.5rem;
   margin-top: 0.5rem; }
   .footer a {
-    color: #007FFF; }
+    color: #2ecc71; }
 
 /*# sourceMappingURL=gochowdown.css.map */

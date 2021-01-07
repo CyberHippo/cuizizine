@@ -6,7 +6,7 @@ title: Cuizizine
 theme: gochowdown
 googleAnalytics:
 defaultcontentlanguage: en
-paginate: 20
+paginate: 6
 canonifyurls: true
 pygmentsstyle: monokai
 pygmentscodefences: true
@@ -15,12 +15,13 @@ pygmentsOptions: "linenos=table"
 permalinks:
   posts: /posts/:year/:month/:title
 params:
-  author: John Doe
-  description: Recipes used by the Doe family
+  author: CyberHippo
+  github: CyberHippo
+  description: Nos meilleures recettes !
   keywords: 'recipes'
   favicon_32: /images/favicon-32x32.png
   favicon_16: /images/favicon-16x16.png
-  footercontent:
+  footercontent: "''Manger, c'est important.'' - A. Einstein"
   hidecredits: false
   hidecopyright: false
   showNavTitle: false            # Boolean: show site title in nav bar
@@ -28,12 +29,12 @@ params:
     - style.css
 menu:
   main:
-    - name: Home
+    - name: Accueil
       weight: 1
       url: /
-    - name: Category
+    - name: Categories
       weight: 2
-      url: /category/
+      url: /categories/
     - name: Cuisine
       weight: 3
       url: /cuisine/
@@ -41,6 +42,6 @@ menu:
       weight: 4
       url: /tags/
 taxonomies:
-  category: category
+  category: categories
   cusine: cuisine
   tag: tags
