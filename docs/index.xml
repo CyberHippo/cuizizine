@@ -2,18 +2,72 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cuizizine</title>
-    <link>https://CyberHippo.github.io/cuizizine/</link>
+    <link>https://cyberhippo.github.io/cuizizine/</link>
     <description>Recent content on Cuizizine</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Thu, 07 Jan 2021 19:32:02 +0100</lastBuildDate><atom:link href="https://CyberHippo.github.io/cuizizine/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 02 Jan 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://cyberhippo.github.io/cuizizine/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>https://CyberHippo.github.io/cuizizine/posts/my-first-post/</link>
-      <pubDate>Thu, 07 Jan 2021 19:32:02 +0100</pubDate>
+      <title>Classic Lasagna</title>
+      <link>https://cyberhippo.github.io/cuizizine/recipes/classic-lasagna/</link>
+      <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://CyberHippo.github.io/cuizizine/posts/my-first-post/</guid>
+      <guid>https://cyberhippo.github.io/cuizizine/recipes/classic-lasagna/</guid>
+      <description>You might need a bit more cottage or ricotta cheese, especially if splitting between smaller pans. Also, you will only get two levels deep if you don&amp;rsquo;t have a really deep pan. Our contribution to this recipe comes from Ashley&amp;rsquo;s mother, which is adding a package of spicy Italian sausage to give some additional flavor.</description>
+    </item>
+    
+    <item>
+      <title>Red Berry Tart</title>
+      <link>https://cyberhippo.github.io/cuizizine/recipes/red-berry-tart/</link>
+      <pubDate>Sun, 17 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://cyberhippo.github.io/cuizizine/recipes/red-berry-tart/</guid>
+      <description>A favorite when I go to BBQs (parties, hackathons, your folks&#39; place), this red berry tart is fairly easy to make and packs a huge wow factor.</description>
+    </item>
+    
+    <item>
+      <title>Best Big, Fat, Chewy Chocolate Chip Cookie</title>
+      <link>https://cyberhippo.github.io/cuizizine/recipes/best-big-fat-chewy-chocolate-chip-cookie/</link>
+      <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://cyberhippo.github.io/cuizizine/recipes/best-big-fat-chewy-chocolate-chip-cookie/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Easy Pancakes</title>
+      <link>https://cyberhippo.github.io/cuizizine/recipes/easy-pancakes/</link>
+      <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://cyberhippo.github.io/cuizizine/recipes/easy-pancakes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graham Cracker Crust</title>
+      <link>https://cyberhippo.github.io/cuizizine/components/graham-cracker-crust/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cyberhippo.github.io/cuizizine/components/graham-cracker-crust/</guid>
+      <description>A simple graham cracker crust, perfect for cheesecakes or tarts.</description>
+    </item>
+    
+    <item>
+      <title>Red Berry Dessert Topping</title>
+      <link>https://cyberhippo.github.io/cuizizine/components/red-berry-dessert-topping/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cyberhippo.github.io/cuizizine/components/red-berry-dessert-topping/</guid>
+      <description>A simple mash of berries, perfect for a tart or top of cheesecake.</description>
+    </item>
+    
+    <item>
+      <title>Vanilla Custard Filling</title>
+      <link>https://cyberhippo.github.io/cuizizine/components/vanilla-custard-filling/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cyberhippo.github.io/cuizizine/components/vanilla-custard-filling/</guid>
+      <description>A simple vanilla custard filling, useful for tarts (or alone by itself in a bowl).</description>
     </item>
     
   </channel>

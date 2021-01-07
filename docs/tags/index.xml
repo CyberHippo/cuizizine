@@ -2,9 +2,73 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Cuizizine</title>
-    <link>https://CyberHippo.github.io/cuizizine/tags/</link>
+    <link>https://cyberhippo.github.io/cuizizine/tags/</link>
     <description>Recent content in Tags on Cuizizine</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr-fr</language><atom:link href="https://CyberHippo.github.io/cuizizine/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>fr-fr</language>
+    <lastBuildDate>Tue, 02 Jan 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://cyberhippo.github.io/cuizizine/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>family</title>
+      <link>https://cyberhippo.github.io/cuizizine/tags/family/</link>
+      <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://cyberhippo.github.io/cuizizine/tags/family/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Italian</title>
+      <link>https://cyberhippo.github.io/cuizizine/tags/Italian/</link>
+      <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://cyberhippo.github.io/cuizizine/tags/Italian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dessert</title>
+      <link>https://cyberhippo.github.io/cuizizine/tags/Dessert/</link>
+      <pubDate>Sun, 17 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://cyberhippo.github.io/cuizizine/tags/Dessert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fruit</title>
+      <link>https://cyberhippo.github.io/cuizizine/tags/fruit/</link>
+      <pubDate>Sun, 17 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://cyberhippo.github.io/cuizizine/tags/fruit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Breakfast</title>
+      <link>https://cyberhippo.github.io/cuizizine/tags/Breakfast/</link>
+      <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://cyberhippo.github.io/cuizizine/tags/Breakfast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>chocolate</title>
+      <link>https://cyberhippo.github.io/cuizizine/tags/chocolate/</link>
+      <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://cyberhippo.github.io/cuizizine/tags/chocolate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cookies</title>
+      <link>https://cyberhippo.github.io/cuizizine/tags/cookies/</link>
+      <pubDate>Thu, 16 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://cyberhippo.github.io/cuizizine/tags/cookies/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

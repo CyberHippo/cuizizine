@@ -3,26 +3,125 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://CyberHippo.github.io/cuizizine/</loc>
-    <lastmod>2021-01-07T19:32:02+01:00</lastmod>
+    <loc>https://cyberhippo.github.io/cuizizine/</loc>
+    <lastmod>2018-01-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://CyberHippo.github.io/cuizizine/posts/my-first-post/</loc>
-    <lastmod>2021-01-07T19:32:02+01:00</lastmod>
+    <loc>https://cyberhippo.github.io/cuizizine/category/</loc>
+    <lastmod>2018-01-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://CyberHippo.github.io/cuizizine/posts/</loc>
-    <lastmod>2021-01-07T19:32:02+01:00</lastmod>
+    <loc>https://cyberhippo.github.io/cuizizine/recipes/classic-lasagna/</loc>
+    <lastmod>2018-01-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://CyberHippo.github.io/cuizizine/categories/</loc>
+    <loc>https://cyberhippo.github.io/cuizizine/cuisine/</loc>
+    <lastmod>2018-01-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://CyberHippo.github.io/cuizizine/tags/</loc>
+    <loc>https://cyberhippo.github.io/cuizizine/category/dinner/</loc>
+    <lastmod>2018-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cyberhippo.github.io/cuizizine/tags/family/</loc>
+    <lastmod>2018-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cyberhippo.github.io/cuizizine/tags/Italian/</loc>
+    <lastmod>2018-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cyberhippo.github.io/cuizizine/cuisine/Italian/</loc>
+    <lastmod>2018-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cyberhippo.github.io/cuizizine/recipes/</loc>
+    <lastmod>2018-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cyberhippo.github.io/cuizizine/tags/</loc>
+    <lastmod>2018-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cyberhippo.github.io/cuizizine/tags/Dessert/</loc>
+    <lastmod>2017-09-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cyberhippo.github.io/cuizizine/category/Dessert/</loc>
+    <lastmod>2017-09-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cyberhippo.github.io/cuizizine/tags/fruit/</loc>
+    <lastmod>2017-09-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cyberhippo.github.io/cuizizine/recipes/red-berry-tart/</loc>
+    <lastmod>2017-09-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cyberhippo.github.io/cuizizine/cuisine/american/</loc>
+    <lastmod>2017-03-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cyberhippo.github.io/cuizizine/recipes/best-big-fat-chewy-chocolate-chip-cookie/</loc>
+    <lastmod>2017-03-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cyberhippo.github.io/cuizizine/tags/Breakfast/</loc>
+    <lastmod>2017-03-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cyberhippo.github.io/cuizizine/category/Breakfast/</loc>
+    <lastmod>2017-03-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cyberhippo.github.io/cuizizine/tags/chocolate/</loc>
+    <lastmod>2017-03-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cyberhippo.github.io/cuizizine/tags/cookies/</loc>
+    <lastmod>2017-03-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cyberhippo.github.io/cuizizine/recipes/easy-pancakes/</loc>
+    <lastmod>2017-03-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cyberhippo.github.io/cuizizine/components/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cyberhippo.github.io/cuizizine/components/graham-cracker-crust/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cyberhippo.github.io/cuizizine/components/red-berry-dessert-topping/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cyberhippo.github.io/cuizizine/components/vanilla-custard-filling/</loc>
   </url>
   
 </urlset>

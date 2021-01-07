@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Components on Cuizizine</title>
+    <link>https://cyberhippo.github.io/cuizizine/components/</link>
+    <description>Recent content in Components on Cuizizine</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language><atom:link href="https://cyberhippo.github.io/cuizizine/components/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Graham Cracker Crust</title>
+      <link>https://cyberhippo.github.io/cuizizine/components/graham-cracker-crust/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cyberhippo.github.io/cuizizine/components/graham-cracker-crust/</guid>
+      <description>A simple graham cracker crust, perfect for cheesecakes or tarts.</description>
+    </item>
+    
+    <item>
+      <title>Red Berry Dessert Topping</title>
+      <link>https://cyberhippo.github.io/cuizizine/components/red-berry-dessert-topping/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cyberhippo.github.io/cuizizine/components/red-berry-dessert-topping/</guid>
+      <description>A simple mash of berries, perfect for a tart or top of cheesecake.</description>
+    </item>
+    
+    <item>
+      <title>Vanilla Custard Filling</title>
+      <link>https://cyberhippo.github.io/cuizizine/components/vanilla-custard-filling/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cyberhippo.github.io/cuizizine/components/vanilla-custard-filling/</guid>
+      <description>A simple vanilla custard filling, useful for tarts (or alone by itself in a bowl).</description>
+    </item>
+    
+  </channel>
+</rss>
