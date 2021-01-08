@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title: "Beignets"
-image: "https://d3d127vhjgkwcw.cloudfront.net/images/articles/2018_01/beignets_recipe_600.jpg"
+image: beignets.jpeg
 imagecredit: "https://d3d127vhjgkwcw.cloudfront.net/images/articles/2018_01/beignets_recipe_600.jpg"
 date: 2019-06-05
 
