@@ -8,9 +8,9 @@ date: 2019-06-05
 sourceName: bugnes-beignets-vegan
 sourceURL: https://auvertaveclili.fr/bugnes-beignets-vegan/](https://auvertaveclili.fr/bugnes-beignets-vegan/
 
-categories: Dessert
+category: Dessert
 tags:
-- végétalien
+  - végétalien
 
 yield: 1
 prepTime: 15
@@ -29,8 +29,6 @@ ingredients:
 - Huile végétale pour la friture (tournesol ou pépins de raisin)
 - Sucre glace
 
-
-
 directions:
 - Verser la ou les farine(s), le sucre, l’huile d’olive, le lait végétal, la compote de pommes, l’eau de fleur d’oranger, la poudre à lever et le bicarbonate alimentaire dans le bol de votre robot*. Bien mélanger jusqu’à obtenir une pâte souple, comme une pâte à tarte.
 - Former une boule et la placer sur votre plan de travail fariné.
@@ -40,4 +38,4 @@ directions:
 - Les déposer sur du papier absorbant et les laisser tiédir avant de les saupoudrer de sucre glace.
 - A conserver dans une boîte en métal.
 
-* **Source** : [)
+---
