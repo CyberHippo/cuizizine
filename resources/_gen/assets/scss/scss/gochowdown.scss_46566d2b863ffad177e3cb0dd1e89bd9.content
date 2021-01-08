@@ -1569,7 +1569,7 @@ img {
   line-height: 0; }
 
 .bg-blue-tile {
-  background: #007FFF url("http://localhost:1313/cuizizine/assets/bg.jpg");
+  background: #007FFF url("http://localhost:1313/cuizizine/assets/tile.png");
   position: relative; }
 
 @media all and (min-width: 40em) {
@@ -1717,7 +1717,7 @@ a:hover .image {
   height: 24px;
   width: 24px;
   border-radius: 5px;
-  border: 2px solid #27ae60;
+  border: 2px solid #007FFF;
   transition: all 0.3s ease-out;
   -webkit-transition: all 0.3s ease-out;
   -moz-transition: all 0.3s ease-out;
@@ -1727,7 +1727,7 @@ a:hover .image {
 .checkbox-label input:checked ~ .checkbox-custom {
   background-color: #fff;
   border-radius: 5px;
-  border: 2px solid #27ae60;
+  border: 2px solid #007FFF;
   -webkit-transform: rotate(0deg) scale(1);
   -ms-transform: rotate(0deg) scale(1);
   transform: rotate(0deg) scale(1);
@@ -1741,7 +1741,7 @@ a:hover .image {
   height: 0px;
   width: 0px;
   border-radius: 5px;
-  border: solid #27ae60;
+  border: solid #007FFF;
   border-width: 0 3px 3px 0;
   -webkit-transform: rotate(0deg) scale(0);
   -ms-transform: rotate(0deg) scale(0);
@@ -1762,14 +1762,14 @@ a:hover .image {
   top: 2px;
   width: 6px;
   height: 12px;
-  border: solid #27ae60;
+  border: solid #007FFF;
   border-width: 0 3px 3px 0;
   background-color: transparent;
   border-radius: 0; }
 
 .navigation {
   width: 100%;
-  background-image: url("http://localhost:1313/cuizizine/assets/bg.jpg");
+  background-image: url("http://localhost:1313/cuizizine/assets/tile.png");
   padding: 1rem 0; }
   .navigation a, .navigation span {
     display: inline;
@@ -1795,10 +1795,10 @@ a:hover .image {
       border-radius: 45px; }
   .navigation .nav-title {
     letter-spacing: 0.1rem;
-    margin: 0;
-    margin-left: 10px; }
+    padding-left: 1rem;
+    margin: 0; }
   .navigation .nav-left {
-    text-align: auto;
+    text-align: left;
     display: flex;
     align-items: center; }
     @media screen and (max-width: 48em) {
@@ -1816,7 +1816,7 @@ a:hover .image {
     .navigation .nav-center a:first-child {
       margin-left: 0; }
     .navigation .nav-center a:last-child {
-      margin-right: 1rem; }
+      padding-right: 1rem; }
     @media screen and (max-width: 48em) {
       .navigation .nav-center {
         margin: 15px 0; } }
@@ -1832,7 +1832,7 @@ a:hover .image {
     .navigation .nav-right a:first-child {
       margin-left: 0; }
     .navigation .nav-right a:last-child {
-      margin: 1rem; }
+      padding-right: 1rem; }
 
 .pagination {
   margin-top: 3.0rem;
@@ -1857,6 +1857,6 @@ a:hover .image {
   padding: 3.5rem 0 3.5rem;
   margin-top: 0.5rem; }
   .footer a {
-    color: #27ae60; }
+    color: #007FFF; }
 
 /*# sourceMappingURL=gochowdown.css.map */

@@ -6,7 +6,7 @@ title: Cuizizine
 theme: gochowdown
 googleAnalytics:
 defaultcontentlanguage: en
-paginate: 6
+paginate: 15
 canonifyurls: true
 pygmentsstyle: monokai
 pygmentscodefences: true
@@ -35,9 +35,9 @@ menu:
     - name: Categories
       weight: 2
       url: /categories/
-    - name: Cuisine
-      weight: 3
-      url: /cuisine/
+    # - name: Cuisine
+    #   weight: 3
+    #   url: /cuisine/
     - name: Tags
       weight: 4
       url: /tags/

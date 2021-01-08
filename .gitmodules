@@ -1,0 +1,3 @@
+[submodule "themes/gochowdown"]
+	path = themes/gochowdown
+	url = https://github.com/seanlane/gochowdown.git
