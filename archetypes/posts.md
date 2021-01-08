@@ -2,5 +2,7 @@
 draft: true
 date: {{ .Date }}
 title: ""
-slug: "" 
+slug: ""
+tags: []
+categories: []
 ---

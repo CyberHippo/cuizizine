@@ -1082,7 +1082,7 @@ body {
   background-color: white; }
 
 a {
-  color: #27ae60;
+  color: #007FFF;
   text-decoration: none; }
 
 a:hover {
@@ -1099,7 +1099,7 @@ hr {
 
 .button {
   color: white;
-  background-color: #27ae60;
+  background-color: #007FFF;
   border-radius: 3px;
   transition-duration: .05s;
   transition-timing-function: ease-out;
@@ -1128,7 +1128,7 @@ hr {
 
 .field-light:focus {
   outline: none;
-  border-color: #27ae60;
+  border-color: #007FFF;
   box-shadow: 0 0 0 2px rgba(0, 127, 255, 0.5); }
 
 .field-light:disabled {
@@ -1397,7 +1397,7 @@ input[type=range] {
   color: #7fdbff; }
 
 .blue {
-  color: #27ae60; }
+  color: #007FFF; }
 
 .navy {
   color: #001f3f; }
@@ -1448,7 +1448,7 @@ input[type=range] {
   background-color: #7fdbff; }
 
 .bg-blue {
-  background-color: #27ae60; }
+  background-color: #007FFF; }
 
 .bg-navy {
   background-color: #001f3f; }
@@ -1499,7 +1499,7 @@ input[type=range] {
   border-color: #7fdbff; }
 
 .border-blue {
-  border-color: #27ae60; }
+  border-color: #007FFF; }
 
 .border-navy {
   border-color: #001f3f; }
@@ -1569,7 +1569,7 @@ img {
   line-height: 0; }
 
 .bg-blue-tile {
-  background: #27ae60 url("http://localhost:1313/cuizizine/assets/bg.jpg");
+  background: #007FFF url("http://localhost:1313/cuizizine/assets/bg.jpg");
   position: relative; }
 
 @media all and (min-width: 40em) {
@@ -1580,7 +1580,7 @@ img {
     right: 0;
     bottom: 0;
     content: " ";
-    box-shadow: inset 0 0 100px 20px #27ae60;
+    box-shadow: inset 0 0 100px 20px #007FFF;
     z-index: 1;
     pointer-events: none; } }
 
@@ -1596,13 +1596,13 @@ img {
 .search input {
   border-radius: 5px;
   border: 2px solid #eee;
-  box-shadow: 0 0 14px rgba(39, 174, 96, 0.1);
+  box-shadow: 0 0 14px rgba(0, 127, 255, 0.1);
   width: 100%;
   padding: 1.5rem; }
 
 .search input:focus {
   outline: none;
-  border: 2px solid #27ae60; }
+  border: 2px solid #007FFF; }
 
 .search {
   transition: .3s ease height;
@@ -1625,7 +1625,7 @@ img {
   content: "- ";
   position: absolute;
   left: 0;
-  color: #27ae60; }
+  color: #007FFF; }
 
 a .image {
   transition: .2s ease all;
@@ -1777,10 +1777,7 @@ a:hover .image {
     font-family: Arial, sans-serif;
     font-weight: 400;
     line-height: 1.4;
-    color: #fff;
-    background: rgba(39, 174, 96, 0.9);
-    border-radius: 5px;
-    padding: 0.3rem; }
+    color: #fff; }
   .navigation a:hover, .navigation a:focus {
     text-decoration: underline; }
   .navigation .nav-avatar {
@@ -1798,10 +1795,10 @@ a:hover .image {
       border-radius: 45px; }
   .navigation .nav-title {
     letter-spacing: 0.1rem;
-    padding-left: 1rem;
-    margin: 0; }
+    margin: 0;
+    margin-left: 10px; }
   .navigation .nav-left {
-    text-align: left;
+    text-align: auto;
     display: flex;
     align-items: center; }
     @media screen and (max-width: 48em) {
@@ -1860,6 +1857,6 @@ a:hover .image {
   padding: 3.5rem 0 3.5rem;
   margin-top: 0.5rem; }
   .footer a {
-    color: #2ecc71; }
+    color: #27ae60; }
 
 /*# sourceMappingURL=gochowdown.css.map */

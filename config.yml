@@ -21,10 +21,10 @@ params:
   keywords: 'recipes'
   favicon_32: /images/favicon-32x32.png
   favicon_16: /images/favicon-16x16.png
-  footercontent: "''Manger, c'est important.'' - A. Einstein"
+  footercontent: "'Manger, c'est important.' - A. Einstein"
   hidecredits: false
   hidecopyright: false
-  showNavTitle: false            # Boolean: show site title in nav bar
+  showNavTitle: true            # Boolean: show site title in nav bar
   custom_css:
     - style.css
 menu:

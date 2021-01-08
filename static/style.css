@@ -1,0 +1,118 @@
+/* Add custom styles here, as needed */
+
+a {
+  color: #27ae60;
+  text-decoration: none;
+}
+
+.button {
+  color: white;
+  background-color: #27ae60;
+  border-radius: 3px;
+  transition-duration: .05s;
+  transition-timing-function: ease-out;
+  transition-property: background-color;
+}
+
+.field-light:focus {
+  outline: none;
+  border-color: #27ae60;
+  box-shadow: 0 0 0 2px rgba(0, 127, 255, 0.5);
+}
+
+.blue  { color: #27ae60 }
+.bg-blue  { background-color: #27ae60 }
+.border-blue  { border-color: #27ae60 }
+
+.bg-blue-tile{background: #27ae60 url($bg-blue-tile-url); position:relative;}
+@media all and (min-width:40em){
+.bg-blue-tile:after{position:absolute; top:0; left:0; right:0; bottom:0; content:" "; box-shadow:inset 0 0 100px 20px #27ae60; z-index:1; pointer-events:none;}
+}
+
+.search input:focus{outline:none; border:2px solid #27ae60;}
+
+.post li:before{content:"- "; position:absolute; left:0; color:#27ae60}
+
+/* _navigation.scss */
+
+.navigation {
+  width: 100%;
+  background-image: url($bg-blue-tile-url);
+  padding: 1rem 0;
+  a, span {
+    display: inline;
+    font-size: 1.2rem;
+    font-family: $heading-font-family;
+    font-weight: $font-weight-regular;
+    line-height: $font-height;
+    color: $bg-color;
+    background: rgba(39, 174, 96,0.9);
+    border-radius: 5px;
+    padding: 0.3rem;
+  }
+  a {
+    &:hover, &:focus {
+      text-decoration: underline;
+    }
+  }
+
+  .nav-avatar {
+    float: left;
+    width: 45px;
+    height: 45px;
+    margin-right: 12px;
+    text-decoration: none;
+    @media screen and (max-width: 48em) {
+      float: none;
+      display: block;
+      margin: 0 auto;
+    }
+
+    img {
+      border-radius: 45px;
+    }
+  }
+
+  .nav-title {
+    letter-spacing: 0.1rem;
+    padding-left: 1rem;
+    margin: 0;
+
+  }
+
+  .nav-left {
+    text-align: left;
+    display: flex;
+    align-items: center;
+    @media screen and (max-width: 48em) {
+      display: block;
+      text-align: center;
+      margin-left: auto;
+      margin-right: auto;
+    }
+  }
+
+  .nav-center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    a { margin-left: 10px; }
+    a:first-child { margin-left: 0; }
+    a:last-child { margin-right: 1rem; }
+    @media screen and (max-width: 48em) {
+      margin: 15px 0;
+    }
+  }
+
+  .nav-right {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    @media screen and (max-width: 48em) {
+      justify-content: center;
+    }
+    a { margin-left: 20px; }
+    a:first-child { margin-left: 0; }
+    a:last-child { margin: 1rem; }
+  }
+}
