@@ -1,5 +1,5 @@
 publishDir: docs
-baseURL: "https://cyberhippo.github.io/cuizizine"
+baseURL: "https://cuizizine.vergnol.eu/"
 disablePathToLower: true
 languageCode: fr-fr
 title: Cuizizine
