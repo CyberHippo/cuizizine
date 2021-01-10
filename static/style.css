@@ -116,87 +116,27 @@ a {
 }
 
 .footer a {
-  color: #27ae60 !default;
+  color: #27ae60;
 }
 
 /* _navigation.scss */
 
-/* .navigation {
-  width: 100%;
-  background-image: 'background.jpg';
-  padding: 1rem 0;
-  a, span {
-    display: inline;
-    font-size: 1.2rem;
-    font-family: 'Abril Fatface';
-    color: #27ae60;
-    background: rgba(39, 174, 96,0.9);
-    border-radius: 5px;
-    padding: 0.3rem;
-  }
-  a {
-    &:hover, &:focus {
-      text-decoration: underline;
-    }
-  }
+.navigation a {
+  display: inline;
+  font-size: 1.2rem;
+  background-color: rgba(39,174,96,0.9);
+  border-radius: 5px;
+  padding: 0.3rem;
+}
 
-  .nav-avatar {
-    float: left;
-    width: 45px;
-    height: 45px;
-    margin-right: 12px;
-    text-decoration: none;
-    @media screen and (max-width: 48em) {
-      float: none;
-      display: block;
-      margin: 0 auto;
-    }
+.navigation .nav-right a:last-child {
+  margin-right: 1rem;
+  padding-right: 0.3rem;
+}
 
-    img {
-      border-radius: 45px;
-    }
-  }
-
-  .nav-title {
-    letter-spacing: 0.1rem;
-    padding-left: 1rem;
-    margin: 0;
-
-  }
-
-  .nav-left {
-    text-align: left;
-    display: flex;
-    align-items: center;
-    @media screen and (max-width: 48em) {
-      display: block;
-      text-align: center;
-      margin-left: auto;
-      margin-right: auto;
-    }
-  }
-
-  .nav-center {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    a { margin-left: 10px; }
-    a:first-child { margin-left: 0; }
-    a:last-child { margin-right: 1rem; }
-    @media screen and (max-width: 48em) {
-      margin: 15px 0;
-    }
-  }
-
-  .nav-right {
-    display: flex;
-    align-items: center;
-    justify-content: flex-end;
-    @media screen and (max-width: 48em) {
-      justify-content: center;
-    }
-    a { margin-left: 20px; }
-    a:first-child { margin-left: 0; }
-    a:last-child { margin: 1rem; }
-  }
-} */
+.navigation .nav-title {
+  background-color: rgba(39,174,96,0.9);
+  letter-spacing: 0.1rem;
+  margin-left: 0;
+  padding-left: 0;
+}
