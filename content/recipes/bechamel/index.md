@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title:  "Béchamel"
-image: https://img.taste.com.au/yH5irSFh/taste/2016/11/bechamel-sauce-60742-1.jpeg
+image: bechamel.jpeg
 imagecredit: https://img.taste.com.au/yH5irSFh/taste/2016/11/bechamel-sauce-60742-1.jpeg
 date: 2019-11-24
 
