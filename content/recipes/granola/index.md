@@ -8,10 +8,7 @@ categories: Dessert
 tags:
   - végétalien
 
-# yield: 7
-# prepTime: 15
 cookTime: 30 à 40 min
-
 
 ingredients:
 - Environ 800g-1kg de gros flocons d'avoine
@@ -23,7 +20,6 @@ ingredients:
 - (optionnel) un peu de cannelle
 - un peu de lait végétal
 - huile (si besoin)
-
 
 directions:
 - Mélanger dans un saladier environ 800g-1kg de gros flocons d'avoine, + ~1 grosse poignée d'amandes, + ~1 grosse poignée de noix. (Amandes/Noix coupées ou pas.. si t'as la flemme ça marche aussi haha) tu peux rajouter toute sorte de noix / graines que tu veux (par exemple des graines de lin)

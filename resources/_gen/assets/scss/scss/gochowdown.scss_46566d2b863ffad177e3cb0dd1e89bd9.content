@@ -1569,7 +1569,7 @@ img {
   line-height: 0; }
 
 .bg-blue-tile {
-  background: #007FFF url("http://localhost:1313/cuizizine/assets/tile.png");
+  background: #007FFF url("http://localhost:1313/assets/tile.png");
   position: relative; }
 
 @media all and (min-width: 40em) {
@@ -1769,7 +1769,7 @@ a:hover .image {
 
 .navigation {
   width: 100%;
-  background-image: url("http://localhost:1313/cuizizine/assets/tile.png");
+  background-image: url("http://localhost:1313/assets/tile.png");
   padding: 1rem 0; }
   .navigation a, .navigation span {
     display: inline;
