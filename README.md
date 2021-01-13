@@ -1,5 +1,5 @@
 ![GitHub branch checks state](https://img.shields.io/github/checks-status/cyberhippo/cuizizine/main)
-![Website https://cyberhippo.github.io/cuizizine/](https://img.shields.io/website?down_message=offline&up_message=online&url=https%3A%2F%2Fcyberhippo.github.io%2Fcuizizine%2F)
+![Website https://cuizizine.vergnol.eu/](https://img.shields.io/website?down_message=offline&up_message=online&url=https%3A%2F%2Fcuizizine.vergnol.eu%2F)
 ![GitHub last commit](https://img.shields.io/github/last-commit/cyberhippo/cuizizine)
 
 
