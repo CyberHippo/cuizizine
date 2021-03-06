@@ -14,6 +14,7 @@ ingredients:
 - 4 cl d'eau
 - 2 gousses d'ail écrasées
 - 2 càs de vinaigre de cidre
+- 2 càs de jus de citron
 - 1 càs de levure maltée
 - (1 càs  d'oignons frits)
 - ciboulette
