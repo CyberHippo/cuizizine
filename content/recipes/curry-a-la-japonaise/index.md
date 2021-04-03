@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title: "Curry à la japonaise"
-image: creme.jpeg
+image: github.png
 imagecredit: "http://p9.storage.canalblog.com/94/10/1168148/115078101.jpg"
 date: 2019-12-24
 
