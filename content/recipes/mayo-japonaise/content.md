@@ -1,6 +1,6 @@
 ---
 title:  "Mayonnaise japonaise - Okonomiyaki"
-image: mayo.jpg
+imagecredit: "https://glouton.ca/u/media/79/c/2LhNh-large.jpg"
 date: 2021-04-03
 
 categories: Sauce
