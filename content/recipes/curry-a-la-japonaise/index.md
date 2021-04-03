@@ -16,7 +16,7 @@ ingredients:
 - 3 càc de jus de citron (min)
 - 20 cl d’huile d’olive (max)
 - Sel
-- Nécessite un mixeur !
+- Nécessite un mixeur !!!!
 
 
 directions:
