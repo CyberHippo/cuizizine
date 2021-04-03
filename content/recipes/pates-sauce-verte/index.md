@@ -18,7 +18,7 @@ ingredients:
 - Sel, poivre
 
 directions:
-- Mettre ls pâtes à cuire en respectant le temps de cuisson.
+- Mettre les pâtes à cuire en respectant le temps de cuisson.
 - Dans une autre casserole faire chauffer les haricots dans leur jus.
 - Quand les haricots sont chauds, retirer un peu d'eau.
 - Ajouter l'huile, la levure et les épices aux haricots.
