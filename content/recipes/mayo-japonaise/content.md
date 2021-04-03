@@ -1,6 +1,6 @@
 ---
 title:  "Mayonnaise japonaise"
-imagecredit: "https://glouton.ca/recette/16979/mayonnaise-a-la-japonaise"
+imagecredit: "https://glouton.ca/u/media/79/c/2LhNh-large.jpg"
 date: 2021-04-03
 
 categories: Sauce
