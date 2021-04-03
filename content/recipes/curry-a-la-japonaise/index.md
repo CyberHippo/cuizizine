@@ -9,6 +9,9 @@ tags:
   - végétalien
   - japonais
 
+yield: 6 personnes
+prepTime: 20 min
+cookTime: 45 min
 
 ingredients:
 - huile
