@@ -2,6 +2,7 @@
 layout: recipe
 title:  "Pancake japonais au chou - Okonomiyaki"
 image: pancake.jpg
+imagecredit: "https://images.squarespace-cdn.com/content/v1/5db239c14644543229502b74/1605143366037-UGQ1PE79HQWK9KY7MR1C/ke17ZwdGBToddI8pDm48kLkXF2pIyv_F2eUT9F60jBl7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0iyqMbMesKd95J-X4EagrgU9L3Sa3U8cogeb0tjXbfawd0urKshkc5MgdBeJmALQKw/Vegetarian+Okonomiyaki?format=2500w"
 date: 2021-04-03
 
 categories: Plat
