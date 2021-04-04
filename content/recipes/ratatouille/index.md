@@ -1,15 +1,14 @@
 ---
 layout: recipe
 title: "Ratatouille gorgée de soleil !"
-image: ratatouille.jpeg
-imagecredit: "https://media1.s-nbcnews.com/j/newscms/2017_33/1275547/ratatouille-today-tease-170815_5107597557ae61b6e0e16e85dc993576.today-inline-large.jpg"
+image: ratatouille.jpg
 date: 2019-06-04
 
 category: Plat
 tags:
   - végétalien
 
-cookTime: 45 min
+cookTime: 60 min
 
 ingredients:
 - 4-5 courgettes
@@ -22,7 +21,7 @@ ingredients:
 
 directions:
 - Faire cuire (sans griller, donc à feu doux) les courgettes, les aubergines et les oignons en morceaux à la sauteuse avec de l'huile pendant environ 45 minutes.
-- Rajouter les tomates en morceaux et la sauce tomates, laisser mijoter encore environ 15 minutes.
+- Rajouter les tomates en morceaux et la sauce tomate, laisser mijoter encore environ 15 minutes.
 - Rajouter le sel, le poivre, et les herbes.
 
 ---
