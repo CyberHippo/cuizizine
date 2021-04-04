@@ -23,9 +23,10 @@ ingredients:
 - 1/4 de chou blanc
 - 1 càs de levure chimique
 - huile
+- si souhaité : [mayonnaise japonaise] (https://cuizizine.vergnol.eu/recipes/mayo-japonaise/)
 
 directions:
-- Hacher finement le chou et le poireau. Préparer la [mayonnaise japonaise] (https://cuizizine.vergnol.eu/recipes/mayo-japonaise/) si souhaité.
+- Hacher finement le chou et le poireau. Préparer la mayonnaise japonaise si souhaité.
 - Dans un grand saladier, mélanger les oeufs, le lait, la farine et la sauce soja.
 - Y ajouter les légumes et mélanger.
 - Faire chauffer une grande poêle et y mettre un filet d'huile.
