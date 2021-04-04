@@ -7,6 +7,7 @@ date: 2021-04-03
 categories: Sauce
 tags:
   - japonais
+  - rapide
 
 yield: 4 personnes
 prepTime: 5 min
