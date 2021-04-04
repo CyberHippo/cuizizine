@@ -1,12 +1,8 @@
 ---
 layout: recipe
 title: "Steaks pour burgers"
-image: steaks.jpeg
-imagecredit: "https://thewateringmouth.com/wp-content/uploads/2014/06/best-veggie-burger-recipe-5234.jpg"
+image: steaks.jpg
 date: 2019-06-01
-
-sourceName: bugnes-beignets-vegan
-sourceURL: https://auvertaveclili.fr/bugnes-beignets-vegan/](https://auvertaveclili.fr/bugnes-beignets-vegan/
 
 category: Plat
 tags:
