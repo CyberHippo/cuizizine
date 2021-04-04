@@ -25,7 +25,7 @@ ingredients:
 - huile
 
 directions:
-- Hacher finement le chou et le poireau. Préparer la *mayonnaise japonaise* si souhaité.
+- Hacher finement le chou et le poireau. Préparer la [mayonnaise japonaise] (https://cuizizine.vergnol.eu/recipes/mayo-japonaise/) si souhaité.
 - Dans un grand saladier, mélanger les oeufs, le lait, la farine et la sauce soja.
 - Y ajouter les légumes et mélanger.
 - Faire chauffer une grande poêle et y mettre un filet d'huile.
