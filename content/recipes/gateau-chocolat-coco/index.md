@@ -1,8 +1,7 @@
 ---
 layout: recipe
 title: "Moelleux au chocolat à la noix de coco"
-image: moelleux.jpeg
-imagecredit: "https://fac.img.pmdstatic.net/fit/http.3A.2F.2Fprd2-bone-image.2Es3-website-eu-west-1.2Eamazonaws.2Ecom.2Ffac.2F2018.2F07.2F30.2F3d65f26c-9b65-4fe0-b8f1-984d1dd70afb.2Ejpeg/748x372/quality/80/crop-from/center/gateau-moelleux-au-chocolat-et-aux-amandes.jpeg"
+image: gateau.jpg
 date: 2019-07-07
 
 sourceName: www.hervecuisine.com
