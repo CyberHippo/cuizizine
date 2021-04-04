@@ -1,8 +1,7 @@
 ---
 layout: recipe
 title: "Lait d'avoine"
-image: lait.webp
-imagecredit: "https://media.ooreka.fr/public/image/lait-avoine-main-13259453.jpg"
+image: lait-avoine.jpg
 date: 2019-07-15
 
 category: Boisson
