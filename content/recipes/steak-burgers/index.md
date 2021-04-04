@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title: "Steaks pour burgers"
-image: steaks.jpg
+image: steak.jpg
 date: 2019-06-01
 
 category: Plat
