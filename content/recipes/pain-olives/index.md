@@ -5,7 +5,7 @@ image: pain.jpeg
 imagecredit: "http://img.over-blog-kiwi.com/0/56/90/54/20161010/ob_2a6840_14646660-10208727821891175-1816837523.jpg"
 date: 2019-06-05
 
-category: Accompagnement
+category: Apéro
 tags:
   - végétalien
 
