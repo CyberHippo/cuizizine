@@ -23,7 +23,7 @@ ingredients:
 - 1/4 de chou blanc
 - 1 càs de levure chimique
 - huile
-- si souhaité, [mayonnaise japonaise] (https://cuizizine.vergnol.eu/recipes/mayo-japonaise/)
+- [Mayo japonaise] (https://cuizizine.vergnol.eu/recipes/mayo-japonaise/) si souhaitée 
 
 directions:
 - Hacher finement le chou et le poireau. Préparer la mayonnaise japonaise si souhaité.
