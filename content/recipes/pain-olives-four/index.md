@@ -4,7 +4,7 @@ title: "Pain aux olives au four"
 image: pain-olives.jpg
 date: 2021-04-04
 
-category: Accompagnement
+category: Apéro
 tags:
   - végétalien
 
