@@ -1,8 +1,7 @@
 ---
 layout: recipe
 title: "Jardinière de légumes"
-image: jardiniere.webp
-imagecredit: "https://cdn.lacuisinedannie.com/images/72.jpg"
+image: jardiniere.jpg
 date: 2019-06-04
 
 category: Plat
