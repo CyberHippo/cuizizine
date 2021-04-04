@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title: "Cookies banane - chocolat"
-image: cookies.jpeg
+image: cookies.jpg
 imagecredit: "https://static.750g.com/images/622-auto/f644e5ebd7db8293b5e2330d0afa9186/img-2437.jpg"
 date: 2019-06-01
 
