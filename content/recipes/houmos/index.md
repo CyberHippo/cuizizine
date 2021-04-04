@@ -1,8 +1,7 @@
 ---
 layout: recipe
 title: "Houmous simple"
-image: houmous.webp
-imagecredit: "https://img-3.journaldesfemmes.fr/sBnNbO376lZvBbSlx7Ob5lq4bDU=/748x499/smart/image-icu/10018957_2128600701.jpg"
+image: houmous.jpg
 date: 2019-06-01
 
 category: Plat
