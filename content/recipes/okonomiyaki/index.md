@@ -21,7 +21,7 @@ ingredients:
 - 200 g de farine
 - 1 gros poireau
 - 1/4 de chou blanc
-- 1 càs de levure chimique
+- 1 cas de levure chimique
 - huile
 - [Mayo japonaise](https://cuizizine.vergnol.eu/recipes/mayo-japonaise/) (si souhaitée)
 
