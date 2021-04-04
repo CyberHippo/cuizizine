@@ -23,11 +23,11 @@ ingredients:
 - 1/4 de chou blanc
 - 1 càs de levure chimique
 - huile
-- [Mayonnaise japonaise] (https://cuizizine.vergnol.eu/recipes/mayo-japonaise/) (si souhaitée)
+- [Mayo japonaise] (https://cuizizine.vergnol.eu/recipes/mayo-japonaise/) (si souhaitée)
 
 directions:
 - Hacher finement le chou et le poireau. Préparer la mayonnaise japonaise si souhaité.
-- Dans un grand saladier, mélanger les oeufs, le lait, la farine et la sauce soja.
+- Dans un grand saladier, mélanger les oeufs, le lait, le bouillon,la sauce soja, et en dernier la farine.
 - Y ajouter les légumes et mélanger.
 - Faire chauffer une grande poêle et y mettre un filet d'huile.
 - Quand c'est bien chaud, y verser la pâte (1 cm d'épaisseur). Environ 3-5min de cuisson de chaque côté. Soit on fait des petits pancakes individuels, soit des gros pancakes à partager !
