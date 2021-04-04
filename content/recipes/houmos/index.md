@@ -4,7 +4,7 @@ title: "Houmous simple"
 image: houmous.jpg
 date: 2019-06-01
 
-category: Plat
+category: Apéro
 tags:
   - végétalien
 
