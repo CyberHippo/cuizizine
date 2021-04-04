@@ -1,8 +1,7 @@
 ---
 layout: recipe
 title: "Muffins bicolores"
-image: muffins.jpeg
-imagecredit: "https://www.ricettaidea.it/articoli/ricette-tradizionali/dolci/original_muffin-bicolore.jpg"
+image: muffins-bicolores.jpg
 date: 2019-06-03
 
 category: Dessert
