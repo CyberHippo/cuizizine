@@ -1,8 +1,7 @@
 ---
 layout: recipe
 title: "Kombucha"
-image: kombucha.jpeg
-imagecredit: "https://www.healthline.com/hlcmsresource/images/AN_images/8-benefits-of-kombucha-tea-1296x728-feature.jpg"
+image: kombucha.jpg
 date: 2019-06-01
 
 category: Boisson
