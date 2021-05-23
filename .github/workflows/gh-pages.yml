@@ -13,5 +13,4 @@ jobs:
       - uses: enriikke/gatsby-gh-pages-action@v2
         with:
           github_token: ${{ secrets.ACCESS_TOKEN }}
-          publish_dir: ./docs
-          cname: cuizizine.vergnol.eu
+          deploy-branch: gh-pages
