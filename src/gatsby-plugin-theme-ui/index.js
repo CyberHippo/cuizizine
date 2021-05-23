@@ -6,7 +6,7 @@ export default {
     ...theme.colors,
     text: "#362101",
     background: "#fff",
-    primary: "#26A65B",
+    primary: "#AACDB8",
     secondary: "#862E9C",
     accent: "#F4D3E5",
     muted: "#F9E7C9",
