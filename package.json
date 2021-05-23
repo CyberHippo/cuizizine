@@ -18,8 +18,7 @@
     "@marinda/gatsby-theme-recipes": "^*",
     "gatsby": "^2.15.28",
     "react": "^17.0.1",
-    "react-dom": "^17.0.1",
-    "graceful-fs": "4.2.2"
+    "react-dom": "^17.0.1"
   },
   "devDependencies": {
     "babel-eslint": "^10.0.3",
