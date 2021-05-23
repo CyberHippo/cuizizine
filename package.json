@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "demo",
+  "name": "cuizizine",
   "version": "1.0.0",
   "license": "MIT",
   "scripts": {
@@ -17,9 +17,9 @@
   "dependencies": {
     "@marinda/gatsby-theme-recipes": "^*",
     "gatsby": "^2.15.28",
-    "gh-pages-cli": "^0.2.0",
     "react": "^17.0.1",
-    "react-dom": "^17.0.1"
+    "react-dom": "^17.0.1",
+    "graceful-fs": "4.2.2"
   },
   "devDependencies": {
     "babel-eslint": "^10.0.3",
@@ -31,6 +31,7 @@
     "eslint-plugin-react-hooks": "^4.2.0",
     "fs-extra": "^9.0.1",
     "gh-pages": "^3.1.0",
+    "gh-pages-cli": "^0.2.0",
     "glob": "^7.1.4",
     "prettier": "^2.1.2"
   },
