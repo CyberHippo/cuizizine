@@ -21,8 +21,9 @@ module.exports = {
     ],
     footerLinks: [
       {
-        name: "Cookies",
-        href: "/privacy-policy"
+        name: "Ajouter une recette",
+        href:
+        "https://github.com/CyberHippo/cuizizine"
       },
       {
         name: "Gatsby Theme Recipes",
@@ -30,9 +31,8 @@ module.exports = {
           "https://github.com/mariiinda/gatsby-theme-recipes/tree/master/packages/gatsby-theme-recipes"
       },
       {
-        name: "Ajouter une recette",
-        href:
-          "https://github.com/CyberHippo/cuizizine"
+        name: "Cookies",
+        href: "/privacy-policy"
       }
     ]
   },
