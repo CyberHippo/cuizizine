@@ -11,7 +11,7 @@ module.exports = {
     url: "https://cuizizine.vergnol.eu",
     image: "/images/og-image.jpg",
     author: "",
-    iconPath: "./src/images/favicon.png",
+    basePath: "/",
     intro: "'Manger, c'est important.' - A. Einstein",
     menuLinks: [
       {
@@ -21,11 +21,11 @@ module.exports = {
     ],
     footerLinks: [
       {
-        name: "Privacy Policy & Cookies",
+        name: "Cookies",
         href: "/privacy-policy"
       },
       {
-        name: "Gatsby Theme Recipes on Github",
+        name: "Gatsby Theme Recipes",
         href:
           "https://github.com/mariiinda/gatsby-theme-recipes/tree/master/packages/gatsby-theme-recipes"
       },
@@ -41,7 +41,8 @@ module.exports = {
       resolve: "@marinda/gatsby-theme-recipes",
       options: {
         title: "Classic Recipes",
-        shortTitle: "Recipes"
+        shortTitle: "Recipes",
+        iconPath: "./static/images/favicon.png",
       }
     }
   ]
