@@ -7,12 +7,12 @@
 module.exports = {
   siteMetadata: {
     title: "Cuizizine",
-    shortTitle: "Cuizizine",
     description: "'Manger, c'est important.' - A. Einstein",
     url: "https://cuizizine.vergnol.eu",
-    image: "/images/og-image.jpg", // Path to your image you placed in the 'static' folder
+    image: "/images/og-image.jpg",
     author: "",
-    // intro: "Classic recipes you’ll want to keep making.",
+    iconPath: "./src/images/favicon.png",
+    intro: "'Manger, c'est important.' - A. Einstein",
     menuLinks: [
       {
         name: "À propos",
@@ -28,6 +28,11 @@ module.exports = {
         name: "Gatsby Theme Recipes on Github",
         href:
           "https://github.com/mariiinda/gatsby-theme-recipes/tree/master/packages/gatsby-theme-recipes"
+      },
+      {
+        name: "Ajouter une recette",
+        href:
+          "https://github.com/CyberHippo/cuizizine"
       }
     ]
   },
