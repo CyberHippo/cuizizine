@@ -6,7 +6,6 @@
 
 module.exports = {
   siteMetadata: {
-    title: "👨‍🍳 Cuizizine 👩‍🍳",
     description: "'Manger, c'est important.' - A. Einstein",
     url: "https://cuizizine.vergnol.eu",
     image: "/images/og-image.jpg",
@@ -40,8 +39,8 @@ module.exports = {
     {
       resolve: "@marinda/gatsby-theme-recipes",
       options: {
-        title: "Classic Recipes",
-        shortTitle: "Recipes",
+        title: "👨‍🍳 Cuizizine 👩‍🍳",
+        shortTitle: "Cuizizine",
         iconPath: "./static/images/favicon.png",
       }
     }
