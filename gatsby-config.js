@@ -6,7 +6,7 @@
 
 module.exports = {
   siteMetadata: {
-    title: "Cuizizine",
+    title: "👨‍🍳 Cuizizine 👩‍🍳",
     description: "'Manger, c'est important.' - A. Einstein",
     url: "https://cuizizine.vergnol.eu",
     image: "/images/og-image.jpg",
@@ -31,7 +31,7 @@ module.exports = {
           "https://github.com/mariiinda/gatsby-theme-recipes/tree/master/packages/gatsby-theme-recipes"
       },
       {
-        name: "Cookies",
+        name: "Cookies 🍪",
         href: "/privacy-policy"
       }
     ]
